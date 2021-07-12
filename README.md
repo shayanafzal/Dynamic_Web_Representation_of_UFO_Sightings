@@ -18,7 +18,7 @@ Please refer to the below example:
 
 ## Summary
 ### One Drawback
-1.	1.	One of the drawbacks of this webpage is that it is not cell phone friendly. A number of people use their phone to perform quick web searches. The formatting of the webpage can be easily modified to make this cell phone friendly. The header image chosen for this page can also be replaced with one that is cell phone friendly. Doing so would increase the usability of the data that is available as people interested in UFOs would be able to access the most current data on the go.
+1.	One of the drawbacks of this webpage is that it is not cell phone friendly. A number of people use their phone to perform quick web searches. The formatting of the webpage can be easily modified to make this cell phone friendly. The header image chosen for this page can also be replaced with one that is cell phone friendly. Doing so would increase the usability of the data that is available as people interested in UFOs would be able to access the most current data on the go.
 
 ### Two Additional Recommendation for Further Development
 1.	A button can be added to the page that will refresh the table back to its default state. Currently one has to refresh the page to do so. Doing so with make it easy to perform multiple searches and improve user experience.
