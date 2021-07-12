@@ -9,6 +9,8 @@ The purpose of this project was to create a webpage with a dynamic table that pr
 ### How to Perform a Search
 The search filters are displayed on the left. User can filter the date using one or all of the parameter shown in the below image. 
 
+![Search](https://github.com/shayanafzal/UFOs/blob/c53e99ec2364765c8491603b7b45edc5c1095c5d/static/images/search.png)
+
 The user can type in the search criteria that they are entered in and then hit enter to refresh the table.
 
 ## Summary
