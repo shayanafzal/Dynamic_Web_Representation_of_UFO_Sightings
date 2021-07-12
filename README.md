@@ -21,6 +21,6 @@ Please refer to the below example:
 1.	One of the drawbaks of this wepage is that it is not cell phone friendly. A number of people use their phone to perform quick web searches. The formatting of the webpage can be easily modified to make this cell phone frindly. The header images choosen for this page can also be replaced with one that is cell phone friendly. Doing so would increase the usbility of the data that is avalible as people interested in UFOs would be able to access the most current data on the go.
 
 ### Two Additional Recommendation for Further Development
-1.	A button can be added to the page that will refresh the table back to its default state. Currently one has to refresh the page to do so.
+1.	A button can be added to the page that will refresh the table back to its default state. Currently one has to refresh the page to do so. Doing so with make it easy to perform multiple searches and improve user experiance.
 2.	A number of people are visual learners. Hence it would be beneficial to have charts and graphs that summarize the date that the users filter from the chart. 
 
