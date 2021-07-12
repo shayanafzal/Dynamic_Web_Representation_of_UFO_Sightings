@@ -11,7 +11,7 @@ The search filters are displayed on the left. Users can filter the date using a 
 
 ![Search](https://github.com/shayanafzal/UFOs/blob/c53e99ec2364765c8491603b7b45edc5c1095c5d/static/images/search.png)
 
-The user can type in the search criteria that they are interested in and then hit the enter key to refresh the table.
+The users can type in the search criteria that they are interested in and then hit the enter key to refresh the table.
 Please refer to the below example:
 
 ![Search Example](https://github.com/shayanafzal/UFOs/blob/2a963fb8296397bf824789fa865232a44345f503/static/images/search%20results.png)
