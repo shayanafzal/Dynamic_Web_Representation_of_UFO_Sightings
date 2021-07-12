@@ -22,5 +22,5 @@ Please refer to the below example:
 
 ### Two Additional Recommendation for Further Development
 1.	A button can be added to the page that will refresh the table back to its default state. Currently one has to refresh the page to do so. Doing so with make it easy to perform multiple searches and improve user experiance.
-2.	A number of people are visual learners. Hence it would be beneficial to have charts and graphs that summarize the date that the users filter from the chart. 
+2.	A number of people are visual learners. Hence it would be beneficial to have charts and graphs that summarize the data that the users filter from the chart.  
 
