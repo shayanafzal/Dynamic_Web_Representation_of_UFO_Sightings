@@ -1,7 +1,7 @@
 # UFOs
 ## Overview of Project
 ### Purpose
-The purpose of this project was to create a webpage with a dynamic table that provides in-depth analysis of UFO sightings. The user can filter the data for multiple criteria at the same time, including date, city, state, country and shape.
+The purpose of this project was to create a webpage with a dynamic table that provides in-depth analysis of UFO sightings. The user can filter the data for multiple criteria at the same time, including date, city, state, country and shape. The final webpage is displayed below:
 
 ![UFOs](https://github.com/shayanafzal/UFOs/blob/03fd7aff624e7bd6062dadcf87aaa4bf064dd929/static/images/webpage.png)
 
